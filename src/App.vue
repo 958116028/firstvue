@@ -1,10 +1,10 @@
 <template>
   <div id="app">
-    <p>老师</p>
+    <p>老师1222</p>
    <router-view />
     <div>
     <ul>
-      <li>小明</li>
+      <li>小明1111</li>
       <li>小张</li>
       <li>小李</li>
     </ul>
