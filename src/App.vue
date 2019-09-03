@@ -6,8 +6,9 @@
     <ul>
       <li>小明222</li>
       <li>小张</li>
-      <li>小李</li>
+      <li>小李lifjkk1254541</li>
     </ul>
+    <span>fhsdk</span>
   </div>
   </div>
   
@@ -26,5 +27,8 @@ export default {
 }
 ul{
   list-style:none;
+}
+span{
+  font-size: 40px;
 }
 </style>
